@@ -6,7 +6,7 @@ public class Sales {
     private int campaignId;
 
 
-    public Sales() {                      //DÜZELTÝLECEK
+    public Sales() {                      
 
     }
 
